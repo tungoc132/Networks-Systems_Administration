@@ -1,0 +1,9 @@
+Objective: 
+
+- Use the Switching file to configure DHCP and NAT (choose 1 of 2 DHCP types)
+
+- The PCs receive IP addresses automatically
+
+- The PCs access the Internet with public IP address
+
+- (Advanced) The Internet server can access the Internal Server with a public IP address
